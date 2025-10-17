@@ -44,9 +44,9 @@ Here are some of my repositories I’m proud to showcase:
 
 Here are some of my contributions to the observability eco-system:
 
-- **Grafana** – that I love since version 2.0 !  
-- **Jenkins Exporter** – to get statistics metrics from Jenkins CI.  
-- **Logstash Exporter** – to get statistics metrics from Logstash.  
+- `Grafana` – that I love since version 2.0 !  
+- `Jenkins Exporter` – to get statistics metrics from Jenkins CI.  
+- `Logstash Exporter` – to get statistics metrics from Logstash.  
 
 ---
 
@@ -61,13 +61,13 @@ Here are some of my contributions to the observability eco-system:
 
 - Evolving reliability practices: service level objectives (SLOs), error budgets, resilience engineering
 - Deepening involvement in observability stack integrations (OpenTelemetry, tracing, distributed logging)
-- Architecture for large-scale systems: multi-region, microservices, serverless, fault tolerance
+- Architecture for large-scale systems: multi-region, microservices, serverless, fault tolerance, HPC
 - Mentoring / sharing knowledge: writing about best practices, contributing to open source, speaking
 
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-lemaignen-7abb8523b/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/arnaud-lemaignen-7abb8523b/)
 
 ---
 
