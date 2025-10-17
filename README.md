@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Arnaud
 
-**Software Engineer | DevOps & SRE Expert | System Reliability & Observability**
+**Lead Principal Software Engineer | DevOps & SRE Expert | System Reliability & Observability**
 
 With 20+ years of hands-on experience in software engineering, infrastructure, and system reliability, I build and maintain high-availability, scalable systems, with deep expertise in observability, CI/CD, and modern cloud architecture.
  
