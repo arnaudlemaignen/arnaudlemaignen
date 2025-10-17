@@ -36,6 +36,7 @@ Here are some of my repositories I’m proud to showcase:
 
 - `vpr-exporter` – FinOps tool to optimize infra cost by aligning requests with real usage.
 - `resource-model-exporter` – ML tool to generate a model of resource consumption.
+- `sa-exporter` – A Prometheus exporter that aggregates and exposes service availability metrics .
 - `grafana-dashboards` – Observability Grafana dashboards in many different area (using vpr-exporter/node-exporter based on prometheus and AWS datasources) 
 
 ---
