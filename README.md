@@ -62,7 +62,10 @@ Here are some of my contributions to the observability eco-system:
 - Evolving reliability practices: service level objectives (SLOs), error budgets, resilience engineering
 - Deepening involvement in observability stack integrations (OpenTelemetry, tracing, distributed logging)
 - Architecture for large-scale systems: multi-region, microservices, serverless, fault tolerance, HPC
+- Cloud security best practices: IAM, Infrastructure Security, Data Protection
+- Apetite for AI / MLOps: infrastructure resource usage prediction
 - Mentoring / sharing knowledge: writing about best practices, contributing to open source, speaking
+
 
 ---
 
