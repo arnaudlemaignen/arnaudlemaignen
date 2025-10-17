@@ -34,9 +34,9 @@ Here are the areas I excel in and the tools I use regularly:
 
 Here are some of my repositories I’m proud to showcase:
 
-- `vpr-exporter` — FinOps tool to optimize infra cost by aligning requests with real usage.
-- `resource-model-exporter` — ML tool to generate a model of resource consumption.
-- `grafana-dashboards` — Observability Grafana dashboards in many different area (using vpr-exporter/node-exporter based on prometheus and AWS datasources) 
+- `vpr-exporter` – FinOps tool to optimize infra cost by aligning requests with real usage.
+- `resource-model-exporter` – ML tool to generate a model of resource consumption.
+- `grafana-dashboards` – Observability Grafana dashboards in many different area (using vpr-exporter/node-exporter based on prometheus and AWS datasources) 
 
 ---
 
@@ -67,12 +67,12 @@ Here are some of my contributions to the observability eco-system:
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-lemaignen7abb8523b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-lemaignen-7abb8523b/)
 
 ---
 
-My 2 Lord Kelvin's mantras
-> “Measure is to know.” 
-> “If you cannot measure it, you cannot improve it.”  
+My 2 Lord Kelvin's mantras:
+> “Measure is to know.”  
+ > “If you cannot measure it, you cannot improve it.”  
 
 Thanks for dropping by. Feel free to explore my repos, open issues / PRs, or reach out if you want to collaborate.
