@@ -26,7 +26,7 @@ Here are the areas I excel in and the tools I use regularly:
 | **DevOps / SRE Practices** | Incident response, on-call best practices, SLA/SLO/SLI design, resilience, performance tuning |
 | **FinOps** | AWS Billing, dimensioning/sizing engineering, cost optimizations, billing |
 | **DevSecOps** | Kyverno, Falco, SAST |
-| **Storage** | SAN, NAS, Ceph, Fsx, EFS, EBS |
+| **Storage** | SAN, NAS, Ceph, FSx, EFS, EBS |
 
 ---
 
