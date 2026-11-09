@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Arnaud
 
-**Lead Principal Software Engineer | DevOps & SRE Expert | System Reliability & Observability**
+**Engineer Manager | SW & DevOps/SRE/MLOps Advocate | System Reliability & Observability**
 
 With 20+ years of hands-on experience in software engineering, infrastructure, and system reliability, I build and maintain high-availability, scalable systems, with deep expertise in observability, CI/CD, and modern cloud architecture.
  
@@ -20,12 +20,13 @@ Here are the areas I excel in and the tools I use regularly:
 | Domain | Technologies & Tools |
 |---|---|
 | **Cloud & Infrastructure** | AWS, Kubernetes, Docker, Terraform, Ansible |
-| **Reliability, Observability & Monitoring** | Prometheus, Grafana, ELK, Logging / Tracing / Metrics stacks |
+| **Reliability, Observability & Monitoring** | Prometheus, Grafana, ELK, OTel, DataDog, Logging / Tracing / Metrics stacks |
 | **CI/CD & Automation** | GitHub Actions, GitLab CI/CD, GitOps, Flux, Jenkins, automated testing |
 | **Backend & Systems Engineering** | Go, Java, Python, React.js, bash, REST & gRPC services, microservices, event-driven systems |
 | **DevOps / SRE Practices** | Incident response, on-call best practices, SLA/SLO/SLI design, resilience, performance tuning |
+| **MLOps** | KServe/vLLM/Kubeflow |
 | **FinOps** | AWS Billing, dimensioning/sizing engineering, cost optimizations, billing |
-| **DevSecOps** | Kyverno, Falco, SAST |
+| **DevSecOps** | Kyverno, Falco, SAST, Wiz |
 | **Storage** | SAN, NAS, Ceph, FSx, EFS, EBS |
 
 ---
